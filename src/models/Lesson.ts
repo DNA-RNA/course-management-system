@@ -1,10 +1,10 @@
-export interface Lesson {
+export type Lesson = {
     title: string;
     description: string;
     topics: string[];
     content: Content[];
 }
-export interface Content {
+export type Content = {
     type: 'text' | 'video' | 'audio';
     data: string;
 }

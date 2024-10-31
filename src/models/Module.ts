@@ -1,6 +1,6 @@
 import { Lesson } from './Lesson';
 
-export interface Module {
+export type Module  = {
     title: string;
     lessons: Lesson[];
-}
+};
