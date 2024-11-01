@@ -204,3 +204,69 @@
 {"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T20:22:53.806Z"}
 {"level":"info","message":"Request: GET /api/modules","timestamp":"2024-11-01T20:23:10.508Z"}
 {"level":"info","message":"Module fetched ","timestamp":"2024-11-01T20:23:10.511Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:20:20.385Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:20:20.426Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:20:20.432Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:20:20.450Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:20:20.457Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:20:20.469Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:20:21.061Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:20:21.072Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:20:21.074Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:20:21.078Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:20:21.080Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:22:35.759Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:22:35.776Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:22:35.783Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:22:35.795Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:22:35.802Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:22:36.140Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:22:36.147Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:22:36.150Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:22:36.158Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:22:36.162Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:22:36.165Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:27:11.507Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:27:11.521Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:27:11.522Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:27:11.526Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:27:11.528Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:27:11.528Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:27:11.842Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:27:11.854Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:27:11.857Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:27:11.860Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:27:11.862Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:37:17.390Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:37:17.399Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:37:17.400Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:37:17.402Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:37:17.403Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:37:17.404Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:37:17.953Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:37:17.965Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:37:17.968Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:37:17.971Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:37:17.973Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:38:00.719Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:38:00.733Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:38:00.734Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:38:00.736Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:38:00.739Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:38:00.740Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:38:01.728Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:38:01.738Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:38:01.740Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:38:01.744Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:38:01.746Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:40:18.516Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:40:18.530Z"}
+{"level":"info","message":"Request: GET /courses","timestamp":"2024-11-01T21:40:18.533Z"}
+{"level":"info","message":"Request: POST /courses","timestamp":"2024-11-01T21:40:18.537Z"}
+{"level":"info","message":"Request: DELETE /courses/1","timestamp":"2024-11-01T21:40:18.539Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:40:18.756Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:40:18.767Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T21:40:18.768Z"}
+{"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:40:18.770Z"}
+{"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:40:18.771Z"}
+{"level":"warn","message":"Course not found for deletion: 1","timestamp":"2024-11-01T21:40:18.771Z"}

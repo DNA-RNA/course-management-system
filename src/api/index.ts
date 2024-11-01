@@ -37,3 +37,5 @@ app.listen(PORT, () => {
     console.log(`Server ${PORT} portunda çalışıyor`);
     console.log(`API docs available at http://localhost:${PORT}/api-docs`);
 });
+
+export default app;
