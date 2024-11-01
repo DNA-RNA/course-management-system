@@ -2,28 +2,32 @@
 import express from 'express';
 import {logMiddleware}  from '../utils/logger';
 import CourseRouter from './routes/CourseRouter';
-import ModuleRouter from './routes/ModuleRouter';
+import ModuleRouter from './routes/ModuleRouter'; 
+import LessonRouter from './routes/LessonRouter';
 import swaggerUi from 'swagger-ui-express';
 import { swaggerSpec } from './swagger';
+import bodyParser from 'body-parser';
 
 const app = express();
 
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
+app.use(bodyParser.json());
 app.use(logMiddleware);
 
-// API router'ını ekleyin
+// API router
 app.use('/api', CourseRouter);
 app.use('/api', ModuleRouter);
+app.use('/api', LessonRouter);
 
 
-// Swagger dokümantasyonunu kullanıma sun
+// Swagger documentation
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 
 
-// Genel hata işleme middleware'i
+// middleware
 app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
     console.error(err.stack);
     res.status(500).send({ message: 'Bir hata oluştu!', error: err.message });
