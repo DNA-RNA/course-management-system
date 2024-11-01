@@ -13,10 +13,10 @@ const logger = createLogger({
     ],
 });
 
-// Middleware fonksiyonu
+// Middleware 
 export const logMiddleware = (req: Request, res: Response, next: NextFunction) => {
     logger.info(`Request: ${req.method} ${req.url}`);
-    next(); // Bir sonraki middleware'e geçiş yap
+    next(); 
 };
 
-export { logger }; // Logger'ı ayrıca dışa aktarabilirsiniz.
+export { logger }; 

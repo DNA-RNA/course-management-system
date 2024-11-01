@@ -1,0 +1,93 @@
+[
+  {
+    "title": "HTML Basics",
+    "lessons": [
+      {
+        "title": "Understanding HTML Structure",
+        "description": "Learn about HTML tags and document structure",
+        "topics": [
+          "HTML tags",
+          "Document structure",
+          "Semantic HTML"
+        ],
+        "content": [
+          {
+            "type": "text",
+            "data": "HTML (HyperText Markup Language) is the standard markup language for documents designed to be displayed in a web browser."
+          },
+          {
+            "type": "video",
+            "data": "https://example.com/intro-to-html-video"
+          }
+        ]
+      },
+      {
+        "title": "Working with Forms",
+        "description": "Create and style HTML forms",
+        "topics": [
+          "Form elements",
+          "Input types",
+          "Form validation"
+        ],
+        "content": [
+          {
+            "type": "text",
+            "data": "HTML forms are used to collect user input. Learn how to create effective and accessible forms."
+          },
+          {
+            "type": "audio",
+            "data": "https://example.com/html-forms-audio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CSS Fundamentals",
+    "lessons": [
+      {
+        "title": "CSS Selectors and Properties",
+        "description": "Master CSS selectors and common properties",
+        "topics": [
+          "Selectors",
+          "Box model",
+          "Colors and typography"
+        ],
+        "content": [
+          {
+            "type": "text",
+            "data": "CSS (Cascading Style Sheets) is used to style and layout web pages."
+          },
+          {
+            "type": "video",
+            "data": "https://example.com/css-selectors-video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "JavaScript Basics Updated",
+    "lessons": [
+      {
+        "title": "Updated Lesson Title",
+        "description": "Learn about JavaScript variables and data types",
+        "topics": [
+          "var, let, const",
+          "Primitive types",
+          "Type conversion"
+        ],
+        "content": [
+          {
+            "type": "text",
+            "data": "In JavaScript, variables are containers for storing data values."
+          },
+          {
+            "type": "video",
+            "data": "https://example.com/js-variables-video"
+          }
+        ]
+      }
+    ]
+  }
+]

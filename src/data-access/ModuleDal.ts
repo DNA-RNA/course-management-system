@@ -17,7 +17,17 @@ export class ModuleDal {
             throw new Error('Could not read modules data');
         }
     }
-
+    async getModuleByTitle(title: string) : Promise<Module[] | Module | undefined> {
+        try {
+            const modules = await this.getAll();
+            const module = modules.find((m: Module) => m.title === title);
+           
+            return module;
+        } catch (error) {
+            console.error('Error reading module:', error);
+            throw new Error('Could not reading module');
+        }
+    }
     
     async add(module: Module): Promise<Module> {
         try {
@@ -32,15 +42,16 @@ export class ModuleDal {
     }
 
     
-    async update(module: Module, index: number): Promise<Module | null> {
+    async update(module: Module, title: string): Promise<Module | null> {
         try {
             const modules = await this.getAll();
-            if (modules[index]) {
+            const index = modules.findIndex((m) => m.title === title);
+            if (index !== -1) {
                 modules[index] = module;
                 await this.saveAll(modules);
                 return module;
             }
-            return null; // Modül bulunamadı
+            return null; 
         } catch (error) {
             console.error('Error updating module:', error);
             throw new Error('Could not update module');
@@ -48,10 +59,11 @@ export class ModuleDal {
     }
 
 
-    async delete(index: number): Promise<boolean> {
+    async delete(title: string): Promise<boolean> {
         try {
             const modules = await this.getAll();
-            if (modules[index]) {
+            const index = modules.findIndex((m) => m.title === title);
+            if (index !== -1) {
                 modules.splice(index, 1); 
                 await this.saveAll(modules);
                 return true;

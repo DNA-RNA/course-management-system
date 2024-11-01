@@ -1,0 +1,81 @@
+{"level":"info","message":"Course added: {\"id\":2,\"title\":\"New One For Try\",\"description\":\"Let just check it is work\",\"modules\":[{\"title\":\"Modul 1\",\"lessons\":[{\"title\":\"Lessons 1\",\"description\":\"Desc\",\"topics\":[\"Topic 1\",\"Topic 2\"],\"content\":[{\"type\":\"text\",\"data\":\"content lorem ipsum\"}]}]}]}","timestamp":"2024-10-31T15:08:04.666Z"}
+{"level":"info","message":"Course deleted: 2","timestamp":"2024-10-31T15:14:26.418Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T12:51:08.690Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T12:51:08.718Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T12:51:08.722Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T12:51:08.729Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T12:51:08.732Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T12:51:22.369Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T12:51:53.491Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T12:53:29.799Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T12:55:44.184Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T12:59:33.006Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:01:09.967Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:01:09.990Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:01:09.992Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:01:09.994Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:01:09.995Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:01:10.125Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:01:12.790Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:01:12.802Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:01:12.805Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:01:12.806Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:01:12.806Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:01:12.849Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:01:12.960Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:01:12.968Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:01:12.969Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:01:12.970Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:01:12.970Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:01:13.008Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:01:16.998Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css.map","timestamp":"2024-11-01T13:01:17.308Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:01:18.755Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:01:18.765Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:01:18.765Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:01:18.767Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:01:18.768Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css.map","timestamp":"2024-11-01T13:01:18.993Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:01:19.041Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T13:01:44.481Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:03:38.641Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:03:38.659Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:03:38.660Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:03:38.665Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:03:38.666Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-01T13:03:43.205Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-01T13:03:43.255Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-01T13:03:43.260Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-01T13:03:43.261Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-01T13:03:43.262Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:03:43.426Z"}
+{"level":"info","message":"Request: GET /api-docs/favicon-32x32.png","timestamp":"2024-11-01T13:03:44.444Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T13:03:48.788Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-01T15:15:46.848Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-01T15:15:46.855Z"}
+{"level":"info","message":"Request: GET /api/modules","timestamp":"2024-11-01T15:16:09.434Z"}
+{"level":"error","message":"Error fetching module: Could not read modules data","timestamp":"2024-11-01T15:16:09.441Z"}
+{"level":"info","message":"Request: GET /api/modules","timestamp":"2024-11-01T15:19:28.562Z"}
+{"level":"info","message":"Module fetched ","timestamp":"2024-11-01T15:19:28.571Z"}
+{"level":"info","message":"Request: POST /api/modules","timestamp":"2024-11-01T15:21:16.433Z"}
+{"level":"info","message":"Request: POST /api/module","timestamp":"2024-11-01T15:21:27.392Z"}
+{"level":"error","message":"Validation error: \"value\" must be of type object","timestamp":"2024-11-01T15:21:27.398Z"}
+{"level":"info","message":"Request: POST /api/module","timestamp":"2024-11-01T15:23:09.748Z"}
+{"level":"error","message":"Validation error: \"value\" must be of type object","timestamp":"2024-11-01T15:23:09.753Z"}
+{"level":"info","message":"Request: POST /api/module","timestamp":"2024-11-01T15:23:22.795Z"}
+{"level":"info","message":"Course added: {\"title\":\"JavaScript Basics\",\"lessons\":[{\"title\":\"Variables and Data Types\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]},{\"title\":\"Control Structures\",\"description\":\"Explore loops and conditional statements\",\"topics\":[\"if/else statements\",\"for and while loops\",\"switch case\"],\"content\":[{\"type\":\"text\",\"data\":\"Control structures are used to manage the flow of a program.\"}]}]}","timestamp":"2024-11-01T15:23:22.802Z"}
+{"level":"info","message":"Request: POST /api/module/JavaScript%20Basics","timestamp":"2024-11-01T15:27:05.598Z"}
+{"level":"info","message":"Request: PUT /api/module/JavaScript%20Basics","timestamp":"2024-11-01T15:28:20.594Z"}
+{"level":"info","message":"Course updated: {\"title\":\"JavaScript Basics Updated\",\"lessons\":[{\"title\":\"Updated Lesson Title\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]}]}","timestamp":"2024-11-01T15:28:20.600Z"}
+{"level":"info","message":"Request: DELETE /api/module/JavaScript%20Basics","timestamp":"2024-11-01T15:28:53.361Z"}
+{"level":"info","message":"Course deleted: JavaScript Basics","timestamp":"2024-11-01T15:28:53.366Z"}
+{"level":"info","message":"Request: GET /api/modules","timestamp":"2024-11-01T15:29:15.733Z"}
+{"level":"info","message":"Module fetched ","timestamp":"2024-11-01T15:29:15.738Z"}
+{"level":"info","message":"Request: PUT /api/module/JavaScript%20Basics%20Updated","timestamp":"2024-11-01T16:49:38.900Z"}
+{"level":"info","message":"Course updated: {\"title\":\"JavaScript Basics Updated v2\",\"lessons\":[{\"title\":\"Updated Lesson Title\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]}]}","timestamp":"2024-11-01T16:49:38.907Z"}
+{"level":"info","message":"Request: PUT /api/module/JavaScript%20Basics%20Updated%20v2","timestamp":"2024-11-01T16:53:11.349Z"}
+{"level":"info","message":"Course updated: {\"title\":\"JavaScript Basics Updated v3\",\"lessons\":[{\"title\":\"Updated Lesson Title\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]}]}","timestamp":"2024-11-01T16:53:11.357Z"}
+{"level":"info","message":"Request: PUT /api/module/JavaScript%20Basics%20Updated%20v3","timestamp":"2024-11-01T16:53:44.817Z"}
+{"level":"info","message":"Course updated: {\"title\":\"JavaScript Basics Updated v4\",\"lessons\":[{\"title\":\"Updated Lesson Title\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]}]}","timestamp":"2024-11-01T16:53:44.826Z"}
+{"level":"info","message":"Request: PUT /api/module/JavaScript%20Basics%20Updated%20v4","timestamp":"2024-11-01T16:55:26.396Z"}
+{"level":"info","message":"Course updated: {\"title\":\"JavaScript Basics Updated\",\"lessons\":[{\"title\":\"Updated Lesson Title\",\"description\":\"Learn about JavaScript variables and data types\",\"topics\":[\"var, let, const\",\"Primitive types\",\"Type conversion\"],\"content\":[{\"type\":\"text\",\"data\":\"In JavaScript, variables are containers for storing data values.\"},{\"type\":\"video\",\"data\":\"https://example.com/js-variables-video\"}]}]}","timestamp":"2024-11-01T16:55:26.406Z"}

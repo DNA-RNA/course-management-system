@@ -32,10 +32,11 @@ export class LessonDal {
     }
 
     
-    async update(lesson: Lesson, index: number): Promise<Lesson | null> {
-        try {
+    async update(lesson: Lesson, title: string): Promise<Lesson | null> { 
+        try {       
             const lessons = await this.getAll();
-            if (lessons[index]) {
+            const index = lessons.findIndex((m) => m.title === title);
+            if (index !== -1) {
                 lessons[index] = lesson;
                 await this.saveAll(lessons);
                 return lesson;
@@ -48,10 +49,12 @@ export class LessonDal {
     }
 
    
-    async delete(index: number): Promise<boolean> {
+    async delete(title: string): Promise<boolean> {
         try {
+            
             const lessons = await this.getAll();
-            if (lessons[index]) {
+            const index = lessons.findIndex((m) => m.title === title);
+            if (index !== -1) {
                 lessons.splice(index, 1); 
                 await this.saveAll(lessons);
                 return true;
