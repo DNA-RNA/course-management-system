@@ -5,6 +5,6 @@ export type Lesson = {
     content: Content[];
 }
 export type Content = {
-    type: 'text' | 'video' | 'audio';
+    type: "text" | "video" | "audio" | string;
     data: string;
 }
