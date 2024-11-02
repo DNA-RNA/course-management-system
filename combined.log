@@ -270,3 +270,47 @@
 {"level":"info","message":"Course added: {\"id\":1,\"title\":\"Introduction to Web Development\",\"description\":\"Learn web development fundamentals.\",\"modules\":[]}","timestamp":"2024-11-01T21:40:18.770Z"}
 {"level":"info","message":"Course deleted: 1","timestamp":"2024-11-01T21:40:18.771Z"}
 {"level":"warn","message":"Course not found for deletion: 1","timestamp":"2024-11-01T21:40:18.771Z"}
+{"level":"info","message":"Request: GET /api/lessons","timestamp":"2024-11-01T22:15:06.369Z"}
+{"level":"info","message":"Lesson fetched ","timestamp":"2024-11-01T22:15:06.375Z"}
+{"level":"info","message":"Fetching Lesson","timestamp":"2024-11-01T22:15:06.375Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-02T15:25:38.877Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-02T15:25:38.933Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-02T15:25:38.936Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-02T15:25:38.940Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-02T15:25:38.964Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-02T15:26:03.564Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-02T15:26:03.567Z"}
+{"level":"info","message":"Fetching course","timestamp":"2024-11-02T15:26:03.568Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-02T15:26:26.671Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-02T15:26:26.672Z"}
+{"level":"info","message":"Fetching course","timestamp":"2024-11-02T15:26:26.673Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-02T15:28:21.454Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-02T15:28:21.551Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-02T15:28:21.562Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-02T15:28:21.584Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-02T15:28:21.585Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-02T15:28:36.032Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-02T15:28:36.036Z"}
+{"level":"info","message":"Fetching course","timestamp":"2024-11-02T15:28:36.037Z"}
+{"level":"info","message":"Request: GET /api-docs/","timestamp":"2024-11-02T15:31:44.820Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui.css","timestamp":"2024-11-02T15:31:44.874Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-bundle.js","timestamp":"2024-11-02T15:31:44.877Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2024-11-02T15:31:44.895Z"}
+{"level":"info","message":"Request: GET /api-docs/swagger-ui-init.js","timestamp":"2024-11-02T15:31:44.897Z"}
+{"level":"info","message":"Request: GET /api/courses","timestamp":"2024-11-02T15:31:53.676Z"}
+{"level":"info","message":"Courses fetched ","timestamp":"2024-11-02T15:31:53.680Z"}
+{"level":"info","message":"Fetching course","timestamp":"2024-11-02T15:31:53.681Z"}
+{"level":"info","message":"Request: POST /api/course","timestamp":"2024-11-02T15:32:12.642Z"}
+{"level":"info","message":"Course added: {\"id\":2,\"title\":\"string\",\"description\":\"string\",\"modules\":[{\"title\":\"string\",\"lessons\":[{\"title\":\"CSS Selectors and Properties\",\"description\":\"Master CSS selectors and common properties\",\"topics\":[\"Selectors\",\"Box model\",\"Colors and typography\"],\"content\":[{\"type\":\"text\",\"data\":\"CSS (Cascading Style Sheets) is used to style and layout web pages.\"},{\"type\":\"video\",\"data\":\"https://example.com/css-selectors-video\"}]}]}]}","timestamp":"2024-11-02T15:32:12.648Z"}
+{"level":"info","message":"Adding course: {\"id\":2,\"title\":\"string\",\"description\":\"string\",\"modules\":[{\"title\":\"string\",\"lessons\":[{\"title\":\"CSS Selectors and Properties\",\"description\":\"Master CSS selectors and common properties\",\"topics\":[\"Selectors\",\"Box model\",\"Colors and typography\"],\"content\":[{\"type\":\"text\",\"data\":\"CSS (Cascading Style Sheets) is used to style and layout web pages.\"},{\"type\":\"video\",\"data\":\"https://example.com/css-selectors-video\"}]}]}]}","timestamp":"2024-11-02T15:32:12.648Z"}
+{"level":"info","message":"Request: PUT /api/course/2","timestamp":"2024-11-02T15:32:50.192Z"}
+{"level":"info","message":"Course updated: {\"id\":2,\"title\":\"text\",\"description\":\"string\",\"modules\":[{\"title\":\"string\",\"lessons\":[{\"title\":\"CSS Selectors and Properties\",\"description\":\"Master CSS selectors and common properties\",\"topics\":[\"Selectors\",\"Box model\",\"Colors and typography\"],\"content\":[{\"type\":\"text\",\"data\":\"CSS (Cascading Style Sheets) is used to style and layout web pages.\"},{\"type\":\"video\",\"data\":\"https://example.com/css-selectors-video\"}]}]}]}","timestamp":"2024-11-02T15:32:50.196Z"}
+{"level":"info","message":"Updating course: {\"id\":2,\"title\":\"text\",\"description\":\"string\",\"modules\":[{\"title\":\"string\",\"lessons\":[{\"title\":\"CSS Selectors and Properties\",\"description\":\"Master CSS selectors and common properties\",\"topics\":[\"Selectors\",\"Box model\",\"Colors and typography\"],\"content\":[{\"type\":\"text\",\"data\":\"CSS (Cascading Style Sheets) is used to style and layout web pages.\"},{\"type\":\"video\",\"data\":\"https://example.com/css-selectors-video\"}]}]}]}","timestamp":"2024-11-02T15:32:50.203Z"}
+{"level":"info","message":"Request: DELETE /api/course/2","timestamp":"2024-11-02T15:33:12.178Z"}
+{"level":"info","message":"Course deleted: 2","timestamp":"2024-11-02T15:33:12.181Z"}
+{"level":"info","message":"Deleting course: true","timestamp":"2024-11-02T15:33:12.181Z"}
+{"level":"info","message":"Request: GET /api/modules","timestamp":"2024-11-02T15:33:24.598Z"}
+{"level":"info","message":"Module fetched ","timestamp":"2024-11-02T15:33:24.600Z"}
+{"level":"info","message":"Request: GET /api/lessons","timestamp":"2024-11-02T15:33:37.348Z"}
+{"level":"info","message":"Lesson fetched ","timestamp":"2024-11-02T15:33:37.350Z"}
+{"level":"info","message":"Fetching Lesson","timestamp":"2024-11-02T15:33:37.351Z"}
